@@ -1,3 +1,6 @@
+//https://github.com/AgustinSagripantti/TP-FINAL-INFO1
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
